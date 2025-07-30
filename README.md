@@ -18,7 +18,7 @@ I'm someone who believes in learning by doing, so I like working on small projec
 ### 📫 Connect with Me
 
 I'm always open to connect, learn, and collaborate.  
-**LinkedIn:** linkedin.com/in/jatinkumar12345
+**LinkedIn:** https://www.linkedin.com/in/jatinkumar12345
 
 ---
 
