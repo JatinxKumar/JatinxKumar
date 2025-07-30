@@ -1,33 +1,37 @@
-### Hey, I'm Jatin Kumar 👋
+### Hi, I'm Jatin Kumar
 
-I'm a B.Tech CSE student who loves coding and building useful things with tech.  
-Right now, I'm focusing on learning Data Structures, Algorithms, and Web Development.
-
-I'm someone who believes in learning by doing, so I like working on small projects that solve real problems.
-
----
-
-### 🛠 My Tech Stack
-
-- **Languages:** C++, Python, JavaScript  
-- **Tools:** Git, GitHub, VS Code  
-- **Web:** HTML, CSS, JavaScript, React (still learning)
+I'm a B.Tech CSE student who enjoys coding and building useful projects.  
+Currently, I'm focusing on Data Structures, Algorithms, and Web Development.  
+I believe in learning by doing and like to work on real-world problems.
 
 ---
 
-### 📫 Connect with Me
+### Tech Stack
 
-I'm always open to connect, learn, and collaborate.  
-**LinkedIn:** https://www.linkedin.com/in/jatinkumar12345
+- Languages: C++, Python, JavaScript  
+- Web: HTML, CSS, JavaScript, React (learning)  
+- Tools: Git, GitHub, VS Code, Figma
 
 ---
 
-### 🔥 A Little About Me
+### Projects
 
-I enjoy solving problems, breaking things to understand them, and writing clean code.  
-Also, I'm the kind of person who thinks better with coffee and a compiler open ☕👋
+- Build-AI-Story-Video-Generator – AI-based project for auto-generating story videos  
+- Responsive Portfolio – A personal portfolio site that works across all devices  
+- Karyana AI Chatbot – Chatbot for handling local store-related queries  
+- HTML-CSS-JS Games – Simple browser games made using core frontend tech
 
-I'm a B.Tech CSE student who loves coding and building useful things with tech.  
-Right now, I'm focusing on learning Data Structures, Algorithms, and Web Development.
+---
 
-I'm someone who believes in learning by doing, so I like working on small projects that solve real problems.
+### Connect with Me
+
+- Email: jatinsahil45@gmail.com  
+- LinkedIn: (https://www.linkedin.com/in/jatinkumar12345)  
+- LeetCode: (https://leetcode.com/u/Jatin-Kumar12345)
+
+---
+
+### About Me
+
+I like solving coding problems, building things from scratch, and learning something new every day.  
+Always open to collaborate on meaningful tech projects.
