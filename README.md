@@ -33,5 +33,4 @@ I believe in learning by doing and like to work on real-world problems.
 
 ### About Me
 
-I like solving coding problems, building things from scratch, and learning something new every day.  
-Always open to collaborate on meaningful tech projects.
+I enjoy solving real-world problems through code. I’m currently focused on improving my DSA and Web Dev skills. I believe in learning by building and always open to collaborate on meaningful tech projects.
