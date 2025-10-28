@@ -25,7 +25,7 @@ I believe in learning by doing and like to work on real-world problems.
 
 ### Connect with Me
 
-- Email: jatinsahil45@gmail.com  
+- Email: info.jatink@gmail.com 
 - LinkedIn: (https://www.linkedin.com/in/jatinkumar12345)  
 - LeetCode: (https://leetcode.com/u/Jatin-Kumar12345)
 
