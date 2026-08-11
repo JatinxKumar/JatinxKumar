@@ -1,51 +1,86 @@
-### Hi, I'm Jatin Kumar
+<!-- ======================= HEADER ======================= -->
 
-I'm a B.Tech CSE student who enjoys coding and building useful projects.  
-Currently, I'm focusing on Data Structures, Algorithms, and Web Development.  
-I believe in learning by doing and like to work on real-world problems.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hello!%20I'm%20Jatin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
----
-
-### Tech Stack
-
-- Languages: C++, Python, JavaScript  
-- Web: HTML, CSS, JavaScript, React (learning)  
-- Tools: Git, GitHub, VS Code, Figma
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Java+%7C+DSA+%7C+Full-Stack+Developer;AI%2FML+Enthusiast;I+build+things+with+code+%3A)" />
+</p>
 
 ---
 
-### Projects
+## 👋 About Me
 
-- Build-AI-Story-Video-Generator – AI-based project for auto-generating story videos  
-- Responsive Portfolio – A personal portfolio site that works across all devices  
-- Karyana AI Chatbot – Chatbot for handling local store-related queries  
-- HTML-CSS-JS Games – Simple browser games made using core frontend tech
+I'm **Jatin Kumar**, a B.Tech CSE student who enjoys building useful software and solving problems through code.
+
+My main interests include:
+
+- 🧠 **Data Structures & Algorithms**
+- ☕ **Java & Problem Solving**
+- 🌐 **Full-Stack Web Development**
+- 🤖 **AI / Machine Learning**
+- 🏗️ **Backend Development & APIs**
+- 🚀 Building practical and real-world applications
+
+I believe in **learning by building**, understanding concepts from the basics, and continuously improving through practice.
 
 ---
 
-### Connect with Me
+## 🛠️ Tech Stack
 
-- Email: info.jatink@gmail.com 
-- LinkedIn: (https://www.linkedin.com/in/jatinkumar12345)  
-- LeetCode: (https://leetcode.com/u/Jatin-Kumar12345)
+### 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### 🗄️ Databases & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase,firebase,prisma" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,vercel" />
+</p>
 
 ---
 
-### About Me
+## 🔗 Connect With Me
 
-I enjoy solving real-world problems through code. I’m currently focused on improving my DSA and Web Dev skills. I believe in learning by building and always open to collaborate on meaningful tech projects.
+<p align="left">
 
-### 🛠 Tech Stack
+<a href="mailto:info.jatink@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<a href="https://www.linkedin.com/in/jatinkumar12345">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+<a href="https://leetcode.com/u/Jatin-Kumar12345/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+</p>
+
+---
+
+<p align="center">
+  <i>Learn deeply. Build consistently. Keep improving. 🚀</i>
+</p>
