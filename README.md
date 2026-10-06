@@ -50,13 +50,13 @@ I believe in **learning by building**, understanding concepts from the basics, a
 ### 🗄️ Databases & Backend Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase,firebase,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase,firebase,redis,prisma" />
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,vercel" />
 </p>
 
 ---
