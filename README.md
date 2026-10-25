@@ -61,7 +61,7 @@ I believe in **learning by building**, understanding concepts from the basics, a
 
 ---
 
-## 🎮 Contribution Arcade
+
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JatinxKumar/JatinxKumar/pacman-output/galaga-contribution-graph-dark.svg?game=galaga" />
