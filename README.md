@@ -62,32 +62,31 @@ I believe in **learning by building**, understanding concepts from the basics, a
 ---
 
 
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://jatin-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF8300?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:info.jatink@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/jatinkumar12345" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Jatin-Kumar12345/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JatinxKumar/JatinxKumar/pacman-output/galaga-contribution-graph-dark.svg?game=galaga" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JatinxKumar/JatinxKumar/pacman-output/galaga-contribution-graph.svg?game=galaga" />
   <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/JatinxKumar/JatinxKumar/pacman-output/galaga-contribution-graph.svg?game=galaga" />
 </picture>
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-
-<a href="mailto:info.jatink@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/jatinkumar12345">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/Jatin-Kumar12345/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-</p>
 
 ---
 
